@@ -1,6 +1,6 @@
 使用方法1: 
 ----
-双击
+双击 webserver.exe, 即可在浏览器窗口访问 http://localhost:8080/index.html
 
 
 

@@ -14,7 +14,7 @@ webserver.exe -port=9999
 
 
 
-使用方法3 (如果你安装了golang环境的话):
+使用方法3 (如果你安装了golang环境):
 ----
 运行 cmd 命令行窗口
 
